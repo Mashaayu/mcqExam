@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Feb2024 Work\\.NET CORE\\WebApi\u0027s\\Hospital\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0121C7D2-F6BE-4907-894A-0123F5A53F2B}|Employee.csproj|d:\\feb2024 work\\.net core\\webapi\u0027s\\hospital\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0121C7D2-F6BE-4907-894A-0123F5A53F2B}|Employee.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0121C7D2-F6BE-4907-894A-0123F5A53F2B}|Employee.csproj|d:\\feb2024 work\\.net core\\webapi\u0027s\\hospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0121C7D2-F6BE-4907-894A-0123F5A53F2B}|Employee.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0121C7D2-F6BE-4907-894A-0123F5A53F2B}|Employee.csproj|d:\\feb2024 work\\.net core\\webapi\u0027s\\hospital\\repository and interfaces\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0121C7D2-F6BE-4907-894A-0123F5A53F2B}|Employee.csproj|solutionrelative:repository and interfaces\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0121C7D2-F6BE-4907-894A-0123F5A53F2B}|Employee.csproj|d:\\feb2024 work\\.net core\\webapi\u0027s\\hospital\\repository and interfaces\\interfaces\\iemployeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0121C7D2-F6BE-4907-894A-0123F5A53F2B}|Employee.csproj|solutionrelative:repository and interfaces\\interfaces\\iemployeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0121C7D2-F6BE-4907-894A-0123F5A53F2B}|Employee.csproj|d:\\feb2024 work\\.net core\\webapi\u0027s\\hospital\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0121C7D2-F6BE-4907-894A-0123F5A53F2B}|Employee.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Feb2024 Work\\.NET CORE\\WebApi\u0027s\\Hospital\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Feb2024 Work\\.NET CORE\\WebApi\u0027s\\Hospital\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-15T12:55:04.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Feb2024 Work\\.NET CORE\\WebApi\u0027s\\Hospital\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Feb2024 Work\\.NET CORE\\WebApi\u0027s\\Hospital\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T11:12:43.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployeeRepo.cs",
+              "DocumentMoniker": "D:\\Feb2024 Work\\.NET CORE\\WebApi\u0027s\\Hospital\\Repository And Interfaces\\Interfaces\\IEmployeeRepo.cs",
+              "RelativeDocumentMoniker": "Repository And Interfaces\\Interfaces\\IEmployeeRepo.cs",
+              "ToolTip": "D:\\Feb2024 Work\\.NET CORE\\WebApi\u0027s\\Hospital\\Repository And Interfaces\\Interfaces\\IEmployeeRepo.cs",
+              "RelativeToolTip": "Repository And Interfaces\\Interfaces\\IEmployeeRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T13:14:57.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeRepo.cs",
+              "DocumentMoniker": "D:\\Feb2024 Work\\.NET CORE\\WebApi\u0027s\\Hospital\\Repository And Interfaces\\EmployeeRepo.cs",
+              "RelativeDocumentMoniker": "Repository And Interfaces\\EmployeeRepo.cs",
+              "ToolTip": "D:\\Feb2024 Work\\.NET CORE\\WebApi\u0027s\\Hospital\\Repository And Interfaces\\EmployeeRepo.cs",
+              "RelativeToolTip": "Repository And Interfaces\\EmployeeRepo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T13:04:20.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\Feb2024 Work\\.NET CORE\\WebApi\u0027s\\Hospital\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\Feb2024 Work\\.NET CORE\\WebApi\u0027s\\Hospital\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T13:02:57.672Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "defaultProvider": "unpkg",
+  "libraries": [
+   
+  ]
+}
+
+//{
+//  "provider": "unpkg",
+//  "library": "@microsoft/signalr@latest",
+//  "destination": "wwwroot/Scripts/",
+//  "files": [
+//    "dist/browser/signalr.min.js",
+//    "dist/browser/signalr.js"
+//  ]
+//}

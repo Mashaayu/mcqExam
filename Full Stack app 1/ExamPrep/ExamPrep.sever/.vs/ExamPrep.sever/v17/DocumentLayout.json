@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Main\\Full Stack app 1\\ExamPrep.sever\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01A407B7-08E7-4129-971D-56463C422BD9}|ExamPrep.sever.csproj|d:\\main\\full stack app 1\\examprep.sever\\hubs\\userhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A407B7-08E7-4129-971D-56463C422BD9}|ExamPrep.sever.csproj|solutionrelative:hubs\\userhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A407B7-08E7-4129-971D-56463C422BD9}|ExamPrep.sever.csproj|d:\\main\\full stack app 1\\examprep.sever\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A407B7-08E7-4129-971D-56463C422BD9}|ExamPrep.sever.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A407B7-08E7-4129-971D-56463C422BD9}|ExamPrep.sever.csproj|d:\\main\\full stack app 1\\examprep.sever\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A407B7-08E7-4129-971D-56463C422BD9}|ExamPrep.sever.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A407B7-08E7-4129-971D-56463C422BD9}|ExamPrep.sever.csproj|d:\\main\\full stack app 1\\examprep.sever\\models\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A407B7-08E7-4129-971D-56463C422BD9}|ExamPrep.sever.csproj|solutionrelative:models\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A407B7-08E7-4129-971D-56463C422BD9}|ExamPrep.sever.csproj|d:\\main\\full stack app 1\\examprep.sever\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A407B7-08E7-4129-971D-56463C422BD9}|ExamPrep.sever.csproj|solutionrelative:controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A407B7-08E7-4129-971D-56463C422BD9}|ExamPrep.sever.csproj|d:\\main\\full stack app 1\\examprep.sever\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A407B7-08E7-4129-971D-56463C422BD9}|ExamPrep.sever.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A407B7-08E7-4129-971D-56463C422BD9}|ExamPrep.sever.csproj|d:\\main\\full stack app 1\\examprep.sever\\exetention\\identityserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A407B7-08E7-4129-971D-56463C422BD9}|ExamPrep.sever.csproj|solutionrelative:exetention\\identityserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A407B7-08E7-4129-971D-56463C422BD9}|ExamPrep.sever.csproj|d:\\main\\full stack app 1\\examprep.sever\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{01A407B7-08E7-4129-971D-56463C422BD9}|ExamPrep.sever.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A407B7-08E7-4129-971D-56463C422BD9}|ExamPrep.sever.csproj|d:\\main\\full stack app 1\\examprep.sever\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A407B7-08E7-4129-971D-56463C422BD9}|ExamPrep.sever.csproj|solutionrelative:service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserHub.cs",
+              "DocumentMoniker": "D:\\Main\\Full Stack app 1\\ExamPrep.sever\\hubs\\UserHub.cs",
+              "RelativeDocumentMoniker": "hubs\\UserHub.cs",
+              "ToolTip": "D:\\Main\\Full Stack app 1\\ExamPrep.sever\\hubs\\UserHub.cs",
+              "RelativeToolTip": "hubs\\UserHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T13:04:11.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\Main\\Full Stack app 1\\ExamPrep.sever\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\Main\\Full Stack app 1\\ExamPrep.sever\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAxwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:55:28.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "D:\\Main\\Full Stack app 1\\ExamPrep.sever\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CoursesController.cs",
+              "ToolTip": "D:\\Main\\Full Stack app 1\\ExamPrep.sever\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Controllers\\CoursesController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwB8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:27:04.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Main\\Full Stack app 1\\ExamPrep.sever\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Main\\Full Stack app 1\\ExamPrep.sever\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAIwCYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:26:53.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Main\\Full Stack app 1\\ExamPrep.sever\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Main\\Full Stack app 1\\ExamPrep.sever\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-27T09:29:43.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IdentityServiceExtension.cs",
+              "DocumentMoniker": "D:\\Main\\Full Stack app 1\\ExamPrep.sever\\Exetention\\IdentityServiceExtension.cs",
+              "RelativeDocumentMoniker": "Exetention\\IdentityServiceExtension.cs",
+              "ToolTip": "D:\\Main\\Full Stack app 1\\ExamPrep.sever\\Exetention\\IdentityServiceExtension.cs",
+              "RelativeToolTip": "Exetention\\IdentityServiceExtension.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T08:22:28.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\Main\\Full Stack app 1\\ExamPrep.sever\\Service\\TokenService.cs",
+              "RelativeDocumentMoniker": "Service\\TokenService.cs",
+              "ToolTip": "D:\\Main\\Full Stack app 1\\ExamPrep.sever\\Service\\TokenService.cs",
+              "RelativeToolTip": "Service\\TokenService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T06:07:10.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Main\\Full Stack app 1\\ExamPrep.sever\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Main\\Full Stack app 1\\ExamPrep.sever\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAgwGUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:48:29.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "D:\\Main\\Full Stack app 1\\ExamPrep.sever\\Models\\DTO\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\StudentDTO.cs",
+              "ToolTip": "D:\\Main\\Full Stack app 1\\ExamPrep.sever\\Models\\DTO\\StudentDTO.cs",
+              "RelativeToolTip": "Models\\DTO\\StudentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:57:01.905Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

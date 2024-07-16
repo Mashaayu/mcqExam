@@ -1,0 +1,6 @@
+@YT_PlayListTask.server_HostAddress = http://localhost:5212
+
+GET {{YT_PlayListTask.server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

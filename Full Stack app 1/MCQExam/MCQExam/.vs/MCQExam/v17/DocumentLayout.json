@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\net Projects Extraa\\MCQExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A799D0D-AB57-45A1-B38E-C1735E7B558A}|MCQExam.Server\\MCQExam.Server.csproj|d:\\net projects extraa\\mcqexam\\mcqexam.server\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A799D0D-AB57-45A1-B38E-C1735E7B558A}|MCQExam.Server\\MCQExam.Server.csproj|solutionrelative:mcqexam.server\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A799D0D-AB57-45A1-B38E-C1735E7B558A}|MCQExam.Server\\MCQExam.Server.csproj|d:\\net projects extraa\\mcqexam\\mcqexam.server\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A799D0D-AB57-45A1-B38E-C1735E7B558A}|MCQExam.Server\\MCQExam.Server.csproj|solutionrelative:mcqexam.server\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A799D0D-AB57-45A1-B38E-C1735E7B558A}|MCQExam.Server\\MCQExam.Server.csproj|d:\\net projects extraa\\mcqexam\\mcqexam.server\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A799D0D-AB57-45A1-B38E-C1735E7B558A}|MCQExam.Server\\MCQExam.Server.csproj|solutionrelative:mcqexam.server\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A799D0D-AB57-45A1-B38E-C1735E7B558A}|MCQExam.Server\\MCQExam.Server.csproj|d:\\net projects extraa\\mcqexam\\mcqexam.server\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A799D0D-AB57-45A1-B38E-C1735E7B558A}|MCQExam.Server\\MCQExam.Server.csproj|solutionrelative:mcqexam.server\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A799D0D-AB57-45A1-B38E-C1735E7B558A}|MCQExam.Server\\MCQExam.Server.csproj|d:\\net projects extraa\\mcqexam\\mcqexam.server\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A799D0D-AB57-45A1-B38E-C1735E7B558A}|MCQExam.Server\\MCQExam.Server.csproj|solutionrelative:mcqexam.server\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A799D0D-AB57-45A1-B38E-C1735E7B558A}|MCQExam.Server\\MCQExam.Server.csproj|d:\\net projects extraa\\mcqexam\\mcqexam.server\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A799D0D-AB57-45A1-B38E-C1735E7B558A}|MCQExam.Server\\MCQExam.Server.csproj|solutionrelative:mcqexam.server\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "D:\\net Projects Extraa\\MCQExam\\MCQExam.Server\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "MCQExam.Server\\Models\\Subject.cs",
+              "ToolTip": "D:\\net Projects Extraa\\MCQExam\\MCQExam.Server\\Models\\Subject.cs",
+              "RelativeToolTip": "MCQExam.Server\\Models\\Subject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:49:31.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\net Projects Extraa\\MCQExam\\MCQExam.Server\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "MCQExam.Server\\Models\\Student.cs",
+              "ToolTip": "D:\\net Projects Extraa\\MCQExam\\MCQExam.Server\\Models\\Student.cs",
+              "RelativeToolTip": "MCQExam.Server\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:14:47.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\net Projects Extraa\\MCQExam\\MCQExam.Server\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "MCQExam.Server\\Models\\Course.cs",
+              "ToolTip": "D:\\net Projects Extraa\\MCQExam\\MCQExam.Server\\Models\\Course.cs",
+              "RelativeToolTip": "MCQExam.Server\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:13:14.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "D:\\net Projects Extraa\\MCQExam\\MCQExam.Server\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "MCQExam.Server\\Models\\Instructor.cs",
+              "ToolTip": "D:\\net Projects Extraa\\MCQExam\\MCQExam.Server\\Models\\Instructor.cs",
+              "RelativeToolTip": "MCQExam.Server\\Models\\Instructor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:11:38.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "D:\\net Projects Extraa\\MCQExam\\MCQExam.Server\\Models\\Exam.cs",
+              "RelativeDocumentMoniker": "MCQExam.Server\\Models\\Exam.cs",
+              "ToolTip": "D:\\net Projects Extraa\\MCQExam\\MCQExam.Server\\Models\\Exam.cs",
+              "RelativeToolTip": "MCQExam.Server\\Models\\Exam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T07:20:43.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\net Projects Extraa\\MCQExam\\MCQExam.Server\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MCQExam.Server\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\net Projects Extraa\\MCQExam\\MCQExam.Server\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MCQExam.Server\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAIcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:40:18.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

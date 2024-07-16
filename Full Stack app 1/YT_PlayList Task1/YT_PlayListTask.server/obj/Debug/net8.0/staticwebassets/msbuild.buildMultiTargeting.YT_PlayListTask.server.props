@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\YT_PlayListTask.server.props" />
+</Project>

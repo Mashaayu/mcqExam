@@ -1,0 +1,90 @@
+[
+  {
+    "ProductName": "Ladies Jeans",
+    "Description": "Classy Black Pent made of Jeans Febric , Suitable for any Skin",
+    "Price": 400,
+    "PictureUrl": "img1.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "ProductName": "Women Footwear black",
+    "Description": "black shine sandles to comfort your feets,suitable in every weather most for rain",
+    "Price": 250,
+    "PictureUrl": "img2.jpeg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 3
+  },
+  {
+    "ProductName": "Toy Ducky",
+    "Description": "Let you baby bath more enjoyable with Duck toy,No harmful plastic used.Not edible",
+    "Price": 100,
+    "PictureUrl": "img3.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 9
+  },
+  {
+    "ProductName": "Laptop Bag Silver",
+    "Description": "Enhance your college look with silver lenovo laptop bags,Cool ,extra space , large pockets and a charge  cable free",
+    "Price": 1800,
+    "PictureUrl": "img4.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 4
+  },
+  {
+    "ProductName": "New Shine Facewash",
+    "Description": "Get Achne Free glow Every Day with Our Product , use only Once a Day. Keep Out Reach from the children",
+    "Price": 200,
+    "PictureUrl": "img5.jpeg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 7
+  },
+  {
+    "ProductName": "Travel Bag",
+    "Description": "Make your journey More comfirtable with these cool handy bags , Extra large space and can hold upto 20kg",
+    "Price": 1000,
+    "PictureUrl": "img6.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 3
+  },
+  {
+    "ProductName": "Rainbow Shoes for Child",
+    "Description": "Start Learn Walking with these  fun and comfy Shoes Enjoy each step ahead ",
+    "Price": 340,
+    "PictureUrl": "img7.jpeg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 1
+  },
+  {
+    "ProductName": "Barbie ",
+    "Description": "Let's have party with these beautiful barbie,Do shopping , hairstyling and many more ,Made with silicon ",
+    "Price": 5600,
+    "PictureUrl": "img8.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 9
+  },
+  {
+    "ProductName": "Instant Glow Cream",
+    "Description": "Get Achne Free , pimple free and natural white glow Every Day with Our Product , use only Twice a Day. Keep Out Reach from the children",
+    "Price": 210,
+    "PictureUrl": "img9.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 8
+  },
+  {
+    "ProductName": "Eid Speacial Suit",
+    "Description": "make your EID memorable  with our comfy Suits that everyone loves, Made with pure cotton fiber , long pockets and high quality",
+    "Price": 340,
+    "PictureUrl": "img10.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 6
+  },
+  {
+    "ProductName": "Toy Car",
+    "Description": "How about some enjoy and fun with these cars, lets go on a dummy rides, Made with high quality metal and battry",
+    "Price": 1200,
+    "PictureUrl": "image1.jpeg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 5
+  }
+]

@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\net Projects Extraa\\EmployeeRH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{442B49F4-AAC1-4810-A270-DB938D9CD7FF}|EmployeeRH.csproj|d:\\net projects extraa\\employeerh\\context\\appidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{442B49F4-AAC1-4810-A270-DB938D9CD7FF}|EmployeeRH.csproj|solutionrelative:context\\appidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{442B49F4-AAC1-4810-A270-DB938D9CD7FF}|EmployeeRH.csproj|d:\\net projects extraa\\employeerh\\seeddata\\dbcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{442B49F4-AAC1-4810-A270-DB938D9CD7FF}|EmployeeRH.csproj|solutionrelative:seeddata\\dbcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{442B49F4-AAC1-4810-A270-DB938D9CD7FF}|EmployeeRH.csproj|d:\\net projects extraa\\employeerh\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{442B49F4-AAC1-4810-A270-DB938D9CD7FF}|EmployeeRH.csproj|solutionrelative:identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{442B49F4-AAC1-4810-A270-DB938D9CD7FF}|EmployeeRH.csproj|d:\\net projects extraa\\employeerh\\identity\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{442B49F4-AAC1-4810-A270-DB938D9CD7FF}|EmployeeRH.csproj|solutionrelative:identity\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppIdentityDbContext.cs",
+              "DocumentMoniker": "D:\\net Projects Extraa\\EmployeeRH\\Context\\AppIdentityDbContext.cs",
+              "RelativeDocumentMoniker": "Context\\AppIdentityDbContext.cs",
+              "ToolTip": "D:\\net Projects Extraa\\EmployeeRH\\Context\\AppIdentityDbContext.cs",
+              "RelativeToolTip": "Context\\AppIdentityDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:48:07.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBContextSeed.cs",
+              "DocumentMoniker": "D:\\net Projects Extraa\\EmployeeRH\\SeedData\\DBContextSeed.cs",
+              "RelativeDocumentMoniker": "SeedData\\DBContextSeed.cs",
+              "ToolTip": "D:\\net Projects Extraa\\EmployeeRH\\SeedData\\DBContextSeed.cs",
+              "RelativeToolTip": "SeedData\\DBContextSeed.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:42:21.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\net Projects Extraa\\EmployeeRH\\Identity\\AppUser.cs",
+              "RelativeDocumentMoniker": "Identity\\AppUser.cs",
+              "ToolTip": "D:\\net Projects Extraa\\EmployeeRH\\Identity\\AppUser.cs",
+              "RelativeToolTip": "Identity\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:38:30.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "D:\\net Projects Extraa\\EmployeeRH\\Identity\\AppRole.cs",
+              "RelativeDocumentMoniker": "Identity\\AppRole.cs",
+              "ToolTip": "D:\\net Projects Extraa\\EmployeeRH\\Identity\\AppRole.cs",
+              "RelativeToolTip": "Identity\\AppRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:34:59.411Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
